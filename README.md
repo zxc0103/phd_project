@@ -1,12 +1,14 @@
 # phd_project
 
+---
+
 ## Reflection_RAG评估
 
 ### 评估指标
 
-1. BLUE-4
-2. ROUGE
-3. BERTScore
+1. [BLUE-4](https://github.com/zxc0103/phd_project/blob/main/Reflection_RAG/BLEU-4.py)
+2. [ROUGE](https://github.com/zxc0103/phd_project/blob/main/Reflection_RAG/ROUGE.py)
+3. [BERTScore](https://github.com/zxc0103/phd_project/blob/main/Reflection_RAG/BERTScore.py)
 
 ### 评估结果
 
