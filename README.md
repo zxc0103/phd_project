@@ -42,6 +42,7 @@
 ## 4. 应用演示
 
 ### 4.1 案例一 （[视频链接](https://www.jianguoyun.com/p/DYYcogoQ8JbvDRia95wGIAA)）
+### 4.1 案例一 （[视频链接](https://www.alipan.com/s/Pk7HNbS1QEw)，提取码：87yc）
 <img width="1672" height="2023" alt="案例1截图" src="https://github.com/user-attachments/assets/60160184-9460-4557-ac54-e81c2b6b1277" />
 
 
