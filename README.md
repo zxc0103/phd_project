@@ -31,8 +31,11 @@
 ## 3. 平台截图
 
 ### 3.1 登录界面
+<img width="1390" height="950" alt="1-首页界面" src="https://github.com/user-attachments/assets/706bf139-d0aa-430c-8109-125606338212" />
+
 
 ### 3.2 对话界面
+<img width="1390" height="950" alt="2-对话界面" src="https://github.com/user-attachments/assets/6e7532f4-e1de-44e7-be06-00221020b907" />
 
 ---
 
