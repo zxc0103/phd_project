@@ -24,7 +24,7 @@
 
 ## 2. 对话系统应用评估
 
-待补充
+[评估结果](https://github.com/zxc0103/phd_project/blob/main/%E7%B3%BB%E7%BB%9F%E8%AF%84%E4%BC%B0%E7%BB%93%E6%9E%9C_github.xlsx)
 
 ---
 
