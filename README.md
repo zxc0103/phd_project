@@ -28,10 +28,18 @@
 
 ---
 
-## 3. 应用演示
+## 3. 平台截图
 
-### 3.1 [案例一](https://www.jianguoyun.com/p/DYYcogoQ8JbvDRia95wGIAA)
+### 3.1 登录界面
+
+### 3.2 对话界面
+
+---
+
+## 4. 应用演示
+
+### 4.1 [案例一](https://www.jianguoyun.com/p/DYYcogoQ8JbvDRia95wGIAA)
 
 
-### 3.2 [案例二](https://www.jianguoyun.com/p/DSf6c38Q8JbvDRic95wGIAA (有效期至：2026-07-01 00:00))
+### 4.2 [案例二](https://www.jianguoyun.com/p/DSf6c38Q8JbvDRic95wGIAA)
 
