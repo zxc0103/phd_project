@@ -41,11 +41,10 @@
 
 ## 4. 应用演示
 
-### 4.1 案例一 （[视频链接](https://www.jianguoyun.com/p/DYYcogoQ8JbvDRia95wGIAA)）
-### 4.1 案例一 （[视频链接](https://www.alipan.com/s/Pk7HNbS1QEw)，提取码：87yc）
+### 4.1 案例一 （[视频链接](https://www.alipan.com/s/z49yziCSGzQ)，提取码：6a0m）
 <img width="1672" height="2023" alt="案例1截图" src="https://github.com/user-attachments/assets/60160184-9460-4557-ac54-e81c2b6b1277" />
 
 
-### 4.2 案例二 （[视频链接](https://www.jianguoyun.com/p/DSf6c38Q8JbvDRic95wGIAA)）
+### 4.1 案例二 （[视频链接](https://www.alipan.com/s/Pk7HNbS1QEw)，提取码：87yc）
 ![案例2截图](https://github.com/user-attachments/assets/3ad700ea-4295-41bb-bbaf-86622d218844)
 
