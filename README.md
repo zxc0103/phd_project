@@ -1,4 +1,4 @@
-# phd_project
+<img width="905" height="1138" alt="案例一截图" src="https://github.com/user-attachments/assets/0c00c16f-56e3-422a-b3d6-77992cd78e64" /># phd_project
 > 联系作者：zxc_unique@outlook.com
 ---
 
@@ -41,10 +41,12 @@
 
 ## 4. 应用演示
 
-### 4.1 案例一 （[视频链接](https://www.alipan.com/s/z49yziCSGzQ)，提取码：6a0m）
-<img width="1672" height="2023" alt="案例1截图" src="https://github.com/user-attachments/assets/60160184-9460-4557-ac54-e81c2b6b1277" />
+### 4.1 案例一 （[视频链接](https://www.alipan.com/s/iUGxFfBiPXv)，提取码：07xq）
+<img width="905" height="1138" alt="案例一截图" src="https://github.com/user-attachments/assets/44c3ab15-2aa8-4716-bc12-ec68bcdfe1a3" />
 
 
-### 4.1 案例二 （[视频链接](https://www.alipan.com/s/Pk7HNbS1QEw)，提取码：87yc）
-![案例2截图](https://github.com/user-attachments/assets/3ad700ea-4295-41bb-bbaf-86622d218844)
+
+### 4.1 案例二 （[视频链接](https://www.alipan.com/s/xj8pwFywnEb)，提取码：69sp）
+<img width="1018" height="1699" alt="案例二截图" src="https://github.com/user-attachments/assets/1b18d58f-b0ba-4750-87b2-4f0e3f028ba8" />
+
 
