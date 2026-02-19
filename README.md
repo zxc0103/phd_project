@@ -1,5 +1,9 @@
-<img width="905" height="1138" alt="案例一截图" src="https://github.com/user-attachments/assets/0c00c16f-56e3-422a-b3d6-77992cd78e64" /># phd_project
+# phd_project
+
+
 > 联系作者：zxc_unique@outlook.com
+
+
 ---
 
 ## 1. Reflection_RAG评估
