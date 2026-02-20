@@ -50,7 +50,7 @@
 
 
 
-### 4.1 案例二 （[视频链接](https://www.alipan.com/s/xj8pwFywnEb)，提取码：69sp）
-<img width="1018" height="1699" alt="案例二截图" src="https://github.com/user-attachments/assets/1b18d58f-b0ba-4750-87b2-4f0e3f028ba8" />
+### 4.1 案例二 （[视频链接](https://www.alipan.com/s/BSG3ip7jE74)，提取码：dk66）
+![案例二截图](https://github.com/user-attachments/assets/1abf4cd0-b86c-4aeb-90e1-0f578a93fa30)
 
 
